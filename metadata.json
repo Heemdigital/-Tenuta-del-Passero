@@ -1,0 +1,7 @@
+{
+  "name": "La Tenuta del Passero",
+  "description": "A welcoming Italian countryside Bed & Breakfast in Aprilia and Latina, Lazio with swimming pool, lush gardens, comfortable rooms, and generous breakfast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
